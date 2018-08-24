@@ -22,7 +22,8 @@ twitter_username: kirschbombe
 github_username:  kirschbombe
 
 # --MAP SETTINGS--
-map-tileset: 'https://api.mapbox.com/styles/v1/andy-rutkowski/cj5ij2u2056372srpho3je4dl/tiles/256/{z}/{x}/{y}@2x?access_token=pk.eyJ1IjoiYW5keS1ydXRrb3dza2kiLCJhIjoiWDJRMFVUWSJ9.iHl6Cf0M79wmHQlfP6Bk8Q'
+
+map-tileset: 'https://cartorutkowski.carto.com/builder/5bbac628-f4c2-4a56-9574-ba0f6ef2430d/embed'
 map-credits: '<a target="_blank" href="https://github.com/kirschbombe/flaneur">Flâneur</a> | Tiles: Mapbox'
 minZoom: 0
 maxZoom: 20
