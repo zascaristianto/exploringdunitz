@@ -1,13 +1,13 @@
 
 
 # --SITE SETTINGS--
-title: "Flâneur: a Jekyll theme for maps and text"
-email: dchildress@library.ucla.edu
-description:
+title: "Exploring Sustainability and the Environment through the Dunitz Mural Archive"
+email: Andy Rutkowski arutkows@usc.edu or Stacy Williams stacyw@usc.edu 
+description: "This mapping project features the work of Professor Dana Millstein's Writing 150 students and materials from the Dunitz" Archive
 baseurl: "/flaneur" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
-github_repo: https://github.com/kirschbombe/flaneur
-copyright_statement: © 2017 Dawn Childress. CC BY-NC-SA 4.0.
+github_repo: https://github.com/andyrutkowski/flaneur
+copyright_statement: Original Flaneur design © 2017 Dawn Childress. CC BY-NC-SA 4.0.
 
 # build settings
 markdown: kramdown
@@ -18,8 +18,8 @@ accent_color: rgba(18, 127, 157, 1)  # accent color can be any css accepted valu
 accent_font: Della Respira  # Gogle Fonts import link is in head.html. You can specify the accent font here and it will add it to the main.css
 
 # --SOCIAL--
-twitter_username: kirschbombe
-github_username:  kirschbombe
+twitter_username: 
+github_username:  
 
 # --MAP SETTINGS--
 
