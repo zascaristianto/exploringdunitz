@@ -4,7 +4,7 @@
 title: Exploring Sustainability and the Environment through the Dunitz Mural Archive
 email: Andy Rutkowski arutkows@usc.edu or Stacy Williams stacyw@usc.edu 
 description: This mapping project features the work of Professor Dana Millstein's Writing 150 students and materials from the Dunitz Archive
-baseurl: "/flaneur" # the subpath of your site, e.g. /blog/
+baseurl: "/exploringdunitz" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 github_repo: https://github.com/visualizela/exploringdunitz
 copyright_statement: Original Flaneur design © 2017 Dawn Childress. CC BY-NC-SA 4.0.
