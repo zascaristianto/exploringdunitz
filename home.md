@@ -1,5 +1,5 @@
 ---
 layout: home
-title: "Exploring Sustainability and the Environment using the Dunitz Mural Archive"
+title: "Exploring Los Angeles through the Robin Dunitz Mural Archive"
 ---
-This mapping project features the work of Professor Dana Milstein's Writing 150 students and materials from the Dunitz Archive. Using the archive, site visits, and other research original essays explore themes around sustainability in Los Angeles.
+This project explores Los Angeles neighborhoods through the Robin Dunitz Mural collection. Students go out and visit neighborhoods and write reflective essays about the relationship between murals and the neighborhoods in which they exist. 
