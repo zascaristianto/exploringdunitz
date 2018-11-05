@@ -4,8 +4,8 @@ title: "YOUR TITLE WILL GO HERE"
 date: 2018-10-28
 categories: "sustainability" 
 author: "YOUR NAME GOES HERE"
-lat: 33.9996122
-lng: -118.2918727
+lat: 33.9843046
+lng: -118.4662015
 runningtitle: "this is just the title at the top, no need to do anything here"
 desc: "this is the map popup text"
 ---
