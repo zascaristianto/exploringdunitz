@@ -13,7 +13,7 @@ runningtitle: "this is just the title at the top, no need to do anything here"
 
 To add an image you will use an exclamation point, then a description in brackets, and then the location of the image in parentheses. We will try to store ALL of our images in the GitHub repository.  There is also a little bit of text after the image in the special curly brackets and the word image inside it. Leave this alone! It displays the image in a special viewer so when you click on the image it opens it up in its own viewer and then you can cycle through all the images in this viewer. You can put in as many images as you like. Just always make sure to have the curly brackets afterwards.
    
- ![To Protect and Serve](images/To Protect and Serve (1).jpg)
+ ![To Protect and Serve](images/To Protect and Serve (2).jpg)
    {:.image}
 Fig 1. Photographs of Noni Olabisi’s “To Protect and Serve.” 10 Oct. 2018. Author's personal collection.
    {:.caption} 
