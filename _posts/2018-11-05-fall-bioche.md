@@ -8,6 +8,7 @@ lat: 34.0840126
 lng: -118.3695729
 runningtitle: "this is just the title at the top, no need to do anything here"
 ---
+desc: "test description"
 This is the body of your essay. You will copy and paste your essay into here. You will just delete all the text below and put in your own.
 
 Spaces will work.
