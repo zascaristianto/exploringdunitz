@@ -2,7 +2,7 @@
 layout: post
 title: "YOUR TITLE WILL GO HERE"
 date: 2018-10-28
-categories: "sustainability_41" 
+categories: "sustainability" 
 author: "Drake"
 lat: 33.972901
 lng: -118.247014
