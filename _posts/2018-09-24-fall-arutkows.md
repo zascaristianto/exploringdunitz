@@ -11,7 +11,8 @@ desc: "this is the map popup text"
 ---
 This is the body of your essay. You will copy and paste your essay into here. You will just delete all the text below and put in your own.
 
-Spaces will work.
+Spaces will work or add this  
+&nbsp;
 
 Indents do not, so just put a space in for each new paragraph.
 
