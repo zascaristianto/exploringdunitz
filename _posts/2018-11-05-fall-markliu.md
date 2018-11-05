@@ -13,10 +13,9 @@ runningtitle: "this is just the title at the top, no need to do anything here"
 
 To add an image you will use an exclamation point, then a description in brackets, and then the location of the image in parentheses. We will try to store ALL of our images in the GitHub repository.  There is also a little bit of text after the image in the special curly brackets and the word image inside it. Leave this alone! It displays the image in a special viewer so when you click on the image it opens it up in its own viewer and then you can cycle through all the images in this viewer. You can put in as many images as you like. Just always make sure to have the curly brackets afterwards.
    
-   
-![To Protect and Serve](images/To Protect and Serve (1).jpg)
+ ![To Protect and Serve](images/To Protect and Serve (1).jpg)
    {:.image}
-Another attribution and or a quick description for the the image. This image was found on the [Great Walk Blogspot](http://greatlawalk.blogspot.com/2016/11/)
+Fig 1. Photographs of Noni Olabisi’s “To Protect and Serve.” 10 Oct. 2018. Author's personal collection.
    {:.caption} 
 
 Despite Olabisi’s best intentions, the mural was rejected three times by the city council before being approved in a close vote (Von Blum 85). That the mural faced such staunch opposition indicates that many held onto the agitator stereotype of the BPP and were thus oblivious to its socially conscious aspects. Much like the relationship between conservative residents and Olabisi, the dynamic between minorities and law enforcement was often fraught with discord. 
