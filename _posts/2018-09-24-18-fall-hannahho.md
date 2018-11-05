@@ -6,7 +6,7 @@ categories: "sustainability"
 author: "YOUR NAME GOES HERE"
 lat: 34.0498707
 lng: -118.2507321
-runningtitle: "this is just the title at the top, no need to do anything here"
+desc: "Los Angeles, a Slave to the Business Firms"
 ---
 This is the body of your essay. You will copy and paste your essay into here. You will just delete all the text below and put in your own.
 
