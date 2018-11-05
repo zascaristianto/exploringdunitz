@@ -7,6 +7,7 @@ author: "Elizabeth Winnicki"
 lat: 34.017538
 lng: -118.278401
 runningtitle: "this is just the title at the top, no need to do anything here"
+desc: "Irony of Economy Growth" 
 ---
 This is the body of your essay. You will copy and paste your essay into here. You will just delete all the text below and put in your own.
 
