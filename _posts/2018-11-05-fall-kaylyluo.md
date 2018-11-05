@@ -6,7 +6,7 @@ categories: "Sustainability"
 author: "Kayly Luong"
 lat: 34.025860
 lng: -118.286431
-runningtitle: "this is just the title at the top, no need to do anything here"
+runningtitle: "this is the map popup text"
 ---
 This is the body of your essay. You will copy and paste your essay into here. You will just delete all the text below and put in your own.
 
