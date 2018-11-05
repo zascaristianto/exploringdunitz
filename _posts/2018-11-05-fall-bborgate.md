@@ -7,6 +7,7 @@ author: "Brian Borgatello"
 lat: 34.0479
 lng: -118.4273
 runningtitle: "this is just the title at the top, no need to do anything here"
+Desc: "This is the map pop up"
 ---
 This is the body of your essay. You will copy and paste your essay into here. You will just delete all the text below and put in your own.
 
