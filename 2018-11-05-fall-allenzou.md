@@ -7,6 +7,7 @@ author: "Allen Zou"
 lat: 33.9799761
 lng: -118.4873689
 runningtitle: "this is just the title at the top, no need to do anything here"
+desc: Venice – A Changing Community 
 ---
 This is the body of your essay. You will copy and paste your essay into here. You will just delete all the text below and put in your own.
 
