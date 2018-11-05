@@ -7,7 +7,7 @@ author: "ANDY"
 lat: 33.995844
 lng: -118.221402
 runningtitle: "this is just the title at the top, no need to do anything here"
-desc: "this is the map popup text"
+desc: "this is the map popup text. this could be about one or two sentences long. maybe it could be three. if it is too long it might not look good. but one line is too short."
 ---
 This is the body of your essay. You will copy and paste your essay into here. You will just delete all the text below and put in your own.
 
