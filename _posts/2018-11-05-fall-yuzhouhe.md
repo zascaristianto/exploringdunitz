@@ -10,8 +10,11 @@ runningtitle: "this is just the title at the top, no need to do anything here"
 desc: "this is the map popup text"
 ---
 Yuzhou He
+
 Dr. Milstein
+
 WRIT 150 MWF 09:00
+
 Writing Prompt 3
 																					All Power to the People
                                                                                                                                                                         
@@ -46,17 +49,11 @@ While there are many bad consequences associated with gentrifications, the actio
 
 
 
-   
-
-![You change this and put in your own Image title](images/example1.jpg)
-   {:.image}
-
-
-
 
 #### Works cited
 
 {:.bibliography} 
+
 Isoardi, Steven Louis. The Dark Tree: Jazz and the Community Arts in Los Angeles. University of California Press, 2006.
 Educational Attainment: March 1970. U.S. Dept. of Commerce, Bureau of the Census, 1970.
 
