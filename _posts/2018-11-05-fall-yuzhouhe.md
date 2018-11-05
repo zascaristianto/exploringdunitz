@@ -46,9 +46,18 @@ While there are many bad consequences associated with gentrifications, the actio
 
 
 
-   Reference:
+   
 
-   Isoardi, Steven Louis. The Dark Tree: Jazz and the Community Arts in Los Angeles. University of California Press, 2006.
+![You change this and put in your own Image title](images/example1.jpg)
+   {:.image}
+
+
+
+
+#### Works cited
+
+{:.bibliography} 
+Isoardi, Steven Louis. The Dark Tree: Jazz and the Community Arts in Los Angeles. University of California Press, 2006.
 Educational Attainment: March 1970. U.S. Dept. of Commerce, Bureau of the Census, 1970.
 
    Kominski, Robert, and Andrea Adams. Educational Attainment in the United States: March 1991 and 1990. U.S. Department of Commerce, Bureau of the Census, 1992.
@@ -80,52 +89,3 @@ Zillow, Inc. “South Los Angeles Los Angeles CA Home Prices & Home Values.” Z
    Barragan, Bianca. “Historic South-Central Has the Most Crowded Housing in the US.” Curbed LA, Curbed LA, 10 Mar. 2014, la.curbed.com/2014/3/10/10134306/historic-southcentral-has-the-most-crowded-housing-in-the-us.
     
    “USC Neighbors Face Eviction as Landlords Make Way for 'Rich Kids'.” Capital & Main, 12 Dec. 2017, capitalandmain.com/usc-neighbors-face-eviction-as-landlords-make-way-for-rich-kids-1212.
-
-
-
-
-
-
-
-
-
-
-   
-   
-
-   
-Another attribution and or a quick description for the the image. This image was found on the [Great Walk Blogspot](http://greatlawalk.blogspot.com/2016/11/)
-   {:.caption} 
-
-Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.
-
-And now another image.And now another image.And now another image.And now another image.And now another image.And now another image.And now another image.And now another image.And now another image.And now another image.And now another image.And now another image.And now another image.
-
-![You change this and put in your own Image title](images/example1.jpg)
-   {:.image}
-You also need provide attribution and or a quick description for the the image. This image was found on the [Public Art in LA website](http://www.publicartinla.com/LA_murals/Hollywood/cat_fairfax.html)
-   {:.caption} 
-
-Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.
-
-
-You can continue writing text with images placed after paragraphs. Or, you can save all your images for the end of the essay.
-
-![You change this and put in your own Image title](images/example1.jpg)
-   {:.image}
-You also need provide attribution and or a quick description for the the image. This image was found on the [Public Art in LA website](http://www.publicartinla.com/LA_murals/Hollywood/cat_fairfax.html)
-   {:.caption} 
-   
-![You change this and put in your own Image title](images/example2.jpg)
-   {:.image}
-Another attribution and or a quick description for the the image. This image was found on the [Great Walk Blogspot](http://greatlawalk.blogspot.com/2016/11/)
-   {:.caption} 
-
-Here is the end of your essay!
-
-#### Works cited
-
-{:.bibliography} 
-1. This is your you put in a citation.
-2. And another.
-3. One more maybe?
