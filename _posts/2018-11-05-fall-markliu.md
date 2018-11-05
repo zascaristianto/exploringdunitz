@@ -64,14 +64,20 @@ Here is the end of your essay!
 #### Works cited
 
 Bloom, B. "Black Panther Party | Consider This An Invitation." Williams College, https://sites.williams.edu/dd4/la-black-ghetto/#_ftnref. Accessed 20 Oct 2018.
+
 Chiles, Nick. "8 Black Panther Party Programs That Were More Empowering Than Federal Government Programs." Atlanta Black Star, https://atlantablackstar.com/2015/03/2
 6/8-black-panther-party-programs-that-were-more-empowering-than-federal-government-programs/. Accessed 20 Oct 2018.
+
 Harris, Jenn. "This L.A. restaurant will charge different prices for the same meal, based on the neighborhood." LA Times, http://www.latimes.com/food/dailydish/la-dd-everytable-20160
 722-snap-story.html. Accessed 20 Oct 2018.
+
 Oganesyan, Natalie. "USC Alumna Oversees Affordable Housing Project." Daily Trojan, 24 October 2018, late ed., p. 1.
+
 Olabisi, Noni. "To Robin Dunitz." 26 Feb. 1997. Noni’s View On the Black Panther Party. Ed. Stacey Williams. USC Architecture & Fine Arts Library, 2018. 2-3. 
+
 Sonksen, Mike. "The History Of South Central Los Angeles And Its Struggle With Gentrification". Culture And Society, https://www.kcet.org/shows/city-rising/the-history-of-south
 -central-los-angeles-and-its-struggle-with-gentrification. Accessed 20 Oct 2018.
+
 Von Blum, Paul. "The Black Panther Mural In LA". Z Magazine, Aug. 1995, pp. 83-87.
 
 {:.bibliography} 
