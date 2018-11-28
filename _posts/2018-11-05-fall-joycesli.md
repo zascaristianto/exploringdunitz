@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Transformation of Downtown Los Angeles"
-date: 2018-10-28
+date: 2018-11-29
 categories: "sustainability" 
 author: "Joyce Liang"
 lat: 34.0514092
@@ -9,20 +9,14 @@ lng: -118.2497616
 runningtitle: "this is just the title at the top, no need to do anything here"
 desc: "popup for essay"
 ---
-This is the body of your essay. You will copy and paste your essay into here. You will just delete all the text below and put in your own.
+The origin of the expression “go with the flow” is unknown. Some scholars believe it was derived from William Shakespeare’s play Julius Caesar while others say the idiom originated from second century Roman Emperor Marcus Aurelius Antoninus’ writings. Either way, the phrase still emcompasses the theme that change is relentless, and it is impossible to always cling on to the past. While the “go with the flow” mindset is ideal for a carefree life, the expression is difficult to follow when the world around you is rapidly changing. Downtown Los Angeles (DTLA) developers have made recent efforts to rebrand and shape downtown into the proud center hub of Los Angeles. An evaluation of the demographic changes, restoration of murals, and various development projects in downtown Los Angeles illuminates how the area -- through the process of gentrification -- is attempting to transform itself into a strong centered urban city of the future. The population of white middle class workers is increasing and changing the ethnic and economic demographics, and Skid Row and the rest of downtown have been negatively affected by the gentrification efforts. The city strives to preserve past murals that represent the cultures and ideas of Los Angeles through the restoration of Victor Clothing Co. building and freeway murals; yet recently made murals are selfie-oriented and cater to the incoming millennials. From analyzing housing prices, advertisements, and hostile architecture, Los Angeles is trying to portray the image of being a city for the future with little regard for the previous inhabitants. 
+Los Angeles is notorious for being an extremely diverse community with many ethnic enclaves ranging from Little Tokyo to Olvera Street. However, despite housing a significant amount of Asians, whites, Hispanics, and African Americans, the ethnic makeup of downtown Los Angeles has evolved within the short time span of five years. Since 2010, “there has been a 36% increase in the white population and a corresponding 17% and 18% decrease in the Black 
 
-Spaces will work.
-
-Indents do not, so just put a space in for each new paragraph.
-
-Formating is very simple in this document. 
-
-To add an image you will use an exclamation point, then a description in brackets, and then the location of the image in parentheses. We will try to store ALL of our images in the GitHub repository.  There is also a little bit of text after the image in the special curly brackets and the word image inside it. Leave this alone! It displays the image in a special viewer so when you click on the image it opens it up in its own viewer and then you can cycle through all the images in this viewer. You can put in as many images as you like. Just always make sure to have the curly brackets afterwards.
    
    
-![You change this and put in your own Image title](images/Liang_homeless.jpg)
+![You change this and put in your own Image title](images/Liang_Census.jpg)
    {:.image}
-The dichotomy between gentrification and homeless population.
+Fig. 1. This graph illustrates the population changes in Downtown LA from 2010 to 2015 (“Demographic” 1). 
    {:.caption} 
 
 Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.
