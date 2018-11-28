@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Victor Clothing Company"
+title: "The Transformation of Downtown Los Angeles"
 date: 2018-10-28
 categories: "sustainability" 
 author: "Joyce Liang"
