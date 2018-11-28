@@ -16,7 +16,7 @@ Many artists aim to bring awareness to important social issues through their wor
   
   ![To Protect and Serve](images/Fig. 1.jpg)
    {:.image} 
-   Fig 1. Photograph of Noni Olabisi’s “To Protect and Serve” depicting racial violence by law enforcement 10 Oct. 2018. Author's personal collection.
+   [Fig 1. Photograph of Noni Olabisi’s “To Protect and Serve”] (depicting racial violence by law enforcement 10 Oct. 2018. Author's personal collection.)
    {:.caption} 
   
   ![Life Line](images/lifeline1.jpg)
