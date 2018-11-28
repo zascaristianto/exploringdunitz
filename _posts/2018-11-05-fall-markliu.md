@@ -19,6 +19,11 @@ Many artists aim to bring awareness to important social issues through their wor
    Fig 1. Photograph of Noni Olabisi’s “To Protect and Serve” depicting racial violence by law enforcement 10 Oct. 2018. Author's personal collection.
    {:.caption} 
   
+  ![Life Line](images/lifeline1.jpg)
+   {:.image} 
+[Photo via Ruth Wallach's site](http://www.publicartinla.com/LA_murals/USC/lifeline.html).
+   {:.caption}
+  
 Next to the man being hogtied and the man being lynched by the Ku Klux Klan sits a bound and gagged Bobby Seale, co-founder of the BPP. This references the Chicago Seven Trial where he was removed from court and sentenced by judge Julius Hoffman to an unreasonable four years in prison for contempt of court. The judge’s blindfold symbolizes that miscarriage of justice, one of many in the bigoted history of black fear and pain in the United States (see fig. 1).
 
   ![To Protect and Serve](images/Fig.2.jpg)
