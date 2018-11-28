@@ -93,9 +93,9 @@ Harris, Jenn. "This L.A. restaurant will charge different prices for the same me
 
 Injuries in the South Central Riots from Greg Tate; "L.A. 1992: How Race Riots Have Shaped America"; Rolling Stone, 21 Oct. 2018, https://www.rollingstone.com/culture/culture-news/l-a-1992-how-race-riots-have-shaped-america-110417/.
 
-Oganesyan, Natalie. "USC Alumna Oversees Affordable Housing Project." Daily Trojan, 24 October 2018, late ed., p. 1.
-
 Olabisi, Noni. "To Robin Dunitz." 26 Feb. 1997. Noni’s View On the Black Panther Party. Ed. Stacey Williams. USC Architecture & Fine Arts Library, 2018. 2-3. 
+
+Oganesyan, Natalie. "USC Alumna Oversees Affordable Housing Project." Daily Trojan, 24 October 2018, late ed., p. 1.
 
 Poverty in South Central from the U.S. Census Bureau; “Los Angeles County (South Central)--LA City (South Central/Watts) PUMA, CA”; Census Reporter, 2017, https://censusreporter.org/profiles/79500US0603751-los-angeles-county-south-central-la-city-south-centralwatts-puma-ca/
 
