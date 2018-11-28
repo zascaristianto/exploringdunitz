@@ -12,23 +12,16 @@ While visiting the University of Southern California (USC) for the first time, t
 
 Many artists aim to bring awareness to important social issues through their work. In South Central, artist Noni Olabisi painted To Protect and Serve, a mural encapsulating the history of the Black Panther Party (BPP), an organization founded to end violence against blacks. The mural was dedicated to civil rights lawyers, social workers, freedom fighters, political prisoners and those who lost their lives in the pursuit of justice (Olabisi 2). Depicting the lynchings of the Jim Crow era, the drive towards civil rights, and the height of the organization, Olabisi argues that the BPP was a benevolent organization that was able to bring peace and prosperity to blacks.
   
-  To add an image you will use an exclamation point, then a description in brackets, and then the location of the image in parentheses. We will try to store ALL of our images in the GitHub repository.  There is also a little bit of text after the image in the special curly brackets and the word image inside it. Leave this alone! It displays the image in a special viewer so when you click on the image it opens it up in its own viewer and then you can cycle through all the images in this viewer. You can put in as many images as you like. Just always make sure to have the curly brackets afterwards.
-  
   ![To Protect and Serve](images/Fig. 1.jpg)
    {:.image} 
-   [Fig 1. Photograph of Noni Olabisi’s “To Protect and Serve”] (depicting racial violence by law enforcement 10 Oct. 2018. Author's personal collection.)
+   [Author's personal collection.] (Fig 1. Photograph of Noni Olabisi’s “To Protect and Serve” depicting racial violence by law enforcement 10 Oct. 2018.)
    {:.caption} 
-  
-  ![Life Line](images/lifeline1.jpg)
-   {:.image} 
-[Photo via Ruth Wallach's site](http://www.publicartinla.com/LA_murals/USC/lifeline.html).
-   {:.caption}
   
 Next to the man being hogtied and the man being lynched by the Ku Klux Klan sits a bound and gagged Bobby Seale, co-founder of the BPP. This references the Chicago Seven Trial where he was removed from court and sentenced by judge Julius Hoffman to an unreasonable four years in prison for contempt of court. The judge’s blindfold symbolizes that miscarriage of justice, one of many in the bigoted history of black fear and pain in the United States (see fig. 1).
 
-  ![To Protect and Serve](images/Fig.2.jpg)
+  ![To Protect and Serve](images/Fig. 2.jpg)
    {:.image} 
-   Fig 2. Photograph of Noni Olabisi’s “To Protect and Serve” depicting members of the Black Panther Party. 10 Oct. 2018. Author's personal collection.
+  [Author's personal collection.] (Fig 2. Photograph of Noni Olabisi’s “To Protect and Serve” depicting members of the Black Panther Party. 10 Oct. 2018.) 
    {:.caption} 
 
 In the midst of the crowd stands a stoic Huey Newton, BPP co-founder, and a regal Angela Davis, political activist. The somberness on their faces represents the uncertain times of the Civil Rights era where opposition to racial equality was intense and law enforcement could not be relied upon to protect protestors. In the face of these overwhelming odds, the BPP remained staunch in their defense of blacks and their rights. Young and old, they marched together to protest unbearable injustice. The oversized clothes worn by the dejected boy indicate that he lived during a time that forced him to grow up too quickly and assume the responsibilities of a mature man at an abnormally young age (see fig. 2). Despite Olabisi’s best intentions, the mural was rejected three times by the city council before being approved in a close vote (Von Blum 85). That the mural faced such staunch opposition indicates that many held onto the agitator stereotype of the BPP and were oblivious to its socially conscious aspects. Much like the relationship between these disapproving council members and Olabisi, the dynamic between minorities and law enforcement was often fraught with discord.                                                                                      
@@ -46,9 +39,9 @@ Unfortunately, gentrification in South Central is worsening. The problem manifes
 Historically, despite its militant connotations, the BPP was a benevolent organization 
 whose purpose was to aid blacks and the poor. Although it is no more, the organization operated diverse programs ranging from free food to free healthcare during its peak years. In 1968, the BPP started its free breakfast program (see fig. 3). By 1969, it was providing a complimentary morning meal to thousands of people across nineteen American cities including South Central (Chiles). 
 
- ![To Protect and Serve](images/Fig.3.jpg)
+ ![To Protect and Serve](images/Fig. 3.jpg)
    {:.image} 
-  Fig 3. Photograph of Noni Olabisi’s “To Protect and Serve” depicting the free breakfast program ran by the Black Panther Party. 10 Oct. 2018. Author's personal collection.
+  [Author's personal collection.] (Fig 3. Photograph of Noni Olabisi’s “To Protect and Serve” depicting the free breakfast program ran by the Black Panther Party. 10 Oct. 2018.)
    {:.caption} 
    
    The exponential expansion of the free breakfast program speaks to efficacy of the BPP. Considering that it was the organization’s first foray into major relief programs, the rapid success was even more incredible. Another BPP program was the People’s Free Medical Clinics which provided disease testing, vaccines, and physicals for those in South Central and twelve other American cities (Chiles). The impact of the program was tremendous as it brought international attention to Sickle Cell Disorder while also providing a launchpad for many future black doctors. The BPP’s legacy of social change has undoubtedly inspired many today.
@@ -62,26 +55,26 @@ Rife with hatred and prejudice, the legacy of pre-civil rights America pushed mi
 
 #### Appendix A
 
-![Appendix A](images/A1.jpg)
+![Appendix A](images/A1.png)
    {:.image} 
    
-![Appendix A](images/A2.jpg)
+![Appendix A](images/A2.png)
    {:.image} 
    
-![Appendix A](images/A3.jpg)
+![Appendix A](images/A3.png)
    {:.image} 
 #### Appendix B
 
-![Appendix B](images/B1.jpg)
+![Appendix B](images/B1.png)
    {:.image}
 
-![Appendix B](images/B2.jpg)
+![Appendix B](images/B2.png)
    {:.image} 
    
-![Appendix B](images/B3.jpg)
+![Appendix B](images/B3.PNG)
    {:.image}
    
-![Appendix B](images/B4.jpg)
+![Appendix B](images/B4.png)
    {:.image}
 
 #### Works cited
@@ -90,16 +83,15 @@ Bloom, B. "Black Panther Party: Consider This An Invitation." Williams College, 
 
 Chiles, Nick. "8 Black Panther Party Programs That Were More Empowering Than Federal Government Programs." Atlanta Black Star, https://atlantablackstar.com/2015/03/26/8-black-panther-party-programs-that-were-more-empowering-than-federal-government-programs/. Accessed 20 Oct 2018.
 
-Deaths in the South Central Riots from Greg Tate; "L.A. 1992: How Race Riots Have Shaped America"; Rolling Stone, 21 Oct. 2018, https://www.rollingstone.com/cultur e/culture-news/l-a-1992-how-race-riots-have-shaped-america-110417/.
+Deaths in the South Central Riots from Greg Tate; "L.A. 1992: How Race Riots Have Shaped America"; Rolling Stone, 21 Oct. 2018, https://www.rollingstone.com/culture/culture-news/l-a-1992-how-race-riots-have-shaped-america-110417/.
 
 Educational Attainment in South Central from the U.S. Census Bureau; “Los Angeles County (South Central)--LA City (South Central/Watts) PUMA, CA”; Census Reporter, 2017, https://censusreporter.org/profiles/79500US0603751-los-angeles-county-south-central-la-city-south-centralwatts-puma-ca/
 
 Geographic mobility out of South Central from the U.S. Census Bureau; “Los Angeles County (South Central)--LA City (South Central/Watts) PUMA, CA”; Census Reporter, 2017, https://censusreporter.org/profiles/79500US0603751-los-angeles-county-south-central-la-city-south-centralwatts-puma-ca/
 
-Harris, Jenn. "This L.A. restaurant will charge different prices for the same meal, based on the neighborhood." LA Times, http://www.latimes.com/food/dailydish/la-dd-everytable-20160
-722-snap-story.html. Accessed 20 Oct 2018.
+Harris, Jenn. "This L.A. restaurant will charge different prices for the same meal, based on the neighborhood." LA Times, http://www.latimes.com/food/dailydish/la-dd-everytable-20160722-snap-story.html. Accessed 20 Oct 2018.
 
-Injuries in the South Central Riots from Greg Tate; "L.A. 1992: How Race Riots Have Shaped America"; Rolling Stone, 21 Oct. 2018, https://www.rollingstone.com/cultur e/culture-news/l-a-1992-how-race-riots-have-shaped-america-110417/.
+Injuries in the South Central Riots from Greg Tate; "L.A. 1992: How Race Riots Have Shaped America"; Rolling Stone, 21 Oct. 2018, https://www.rollingstone.com/culture/culture-news/l-a-1992-how-race-riots-have-shaped-america-110417/.
 
 Oganesyan, Natalie. "USC Alumna Oversees Affordable Housing Project." Daily Trojan, 24 October 2018, late ed., p. 1.
 
@@ -107,7 +99,7 @@ Olabisi, Noni. "To Robin Dunitz." 26 Feb. 1997. Noni’s View On the Black Panth
 
 Poverty in South Central from the U.S. Census Bureau; “Los Angeles County (South Central)--LA City (South Central/Watts) PUMA, CA”; Census Reporter, 2017, https://censusreporter.org/profiles/79500US0603751-los-angeles-county-south-central-la-city-south-centralwatts-puma-ca/
 
-Property Damage in the South Central Riots from Greg Tate; "L.A. 1992: How Race Riots Have Shaped America"; Rolling Stone, 21 Oct. 2018, https://www.rollingstone.com/cultur e/culture-news/l-a-1992-how-race-riots-have-shaped-america-110417/.
+Property Damage in the South Central Riots from Greg Tate; "L.A. 1992: How Race Riots Have Shaped America"; Rolling Stone, 21 Oct. 2018, https://www.rollingstone.com/culture/culture-news/l-a-1992-how-race-riots-have-shaped-america-110417/.
 
 Racial Composition of South Central from the U.S. Census Bureau; “Los Angeles County (South Central)--LA City (South Central/Watts) PUMA, CA”; Census Reporter, 2017, https://censusreporter.org/profiles/79500US0603751-los-angeles-county-south-central-la-city-south-centralwatts-puma-ca/
 
