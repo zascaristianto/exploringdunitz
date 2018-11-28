@@ -109,4 +109,4 @@ Von Blum, Paul. "The Black Panther Mural In LA". Z Magazine, Aug. 1995, pp. 83-8
 
 Xavier, Sandra. Personal interview. 10 Oct. 2018.
 
-{:.bibliography} 
+{:.bibliography}
