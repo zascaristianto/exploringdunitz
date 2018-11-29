@@ -21,7 +21,7 @@ In comparison to other more populated areas such as West Hollywood, North Hollyw
     
 In comparison to other more populated areas such as West Hollywood, North Hollywood lacks retail density. In West Hollywood, streets like Melrose and La Brea are inundated with designer boutiques, vintage shops, and unique cafes. This causes a natural influx of people who move to the area because of the options for entertainment:
 
-![NoHo Restaurants](images/hayes1.jpg)
+   ![NoHo Restaurants](images/hayes1.jpg)
    {:.image}
 Distribution of restaurants in North Hollywood. This image was found on the [Map Quest](www.mapquest.com/search/results?query=Restaurants&queryId=sic%3A581208&boundingBox=34.19149973147512%2C-118.4132194519043%2C34.15322417938403%2C-118.33528518676756&page=0)
    {:.caption} 
