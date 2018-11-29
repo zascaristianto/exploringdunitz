@@ -20,6 +20,7 @@ Besides the ethnic aspect of suburbs, the physical features of the community pla
 In comparison to other more populated areas such as West Hollywood, North Hollywood lacks retail density. In West Hollywood, streets such as Melrose and La Brea are inundated with designer boutiques, vintage shops, and unique cafes. This causes a natural influx of people who move to the area because of the options for entertainment. 
     
 In comparison to other more populated areas such as West Hollywood, North Hollywood lacks retail density. In West Hollywood, streets like Melrose and La Brea are inundated with designer boutiques, vintage shops, and unique cafes. This causes a natural influx of people who move to the area because of the options for entertainment:
+
 ![NoHo Restaurants](images/hayes1.jpg)
    {:.image}
 Distribution of restaurants in North Hollywood. This image was found on the [Map Quest](www.mapquest.com/search/results?query=Restaurants&queryId=sic%3A581208&boundingBox=34.19149973147512%2C-118.4132194519043%2C34.15322417938403%2C-118.33528518676756&page=0)
@@ -38,6 +39,7 @@ Distribution of restaurants and shopping in North Hollywood. This image was foun
 As evidenced by the distribution of shopping and restaurants, North Hollywood does not provide the same amount of entertainment for residents. West Hollywood features a variety of different foods such as Italian, Chinese, burgers, etc. (at least three restaurants per city block), whereas options in North Hollywood are more limited (around one restaurant per city block). This is similar to the shopping selection, which is neither extensive or specialized in North Hollywood. West Hollywood contains double the number of stores per city block as North Hollywood (two to one). Although stores such as Walmart and Target are present, and North Hollywood is by no means a food desert, compared to the extensive options in other nearby cities/districts, it can seem bare and lacking. Corporations such as Walmart and Target contribute positively to the child-oriented environment yet do not consider a different demographic: bored teens.
 
 North Hollywood presents itself as a very family- friendly neighborhood. Many open spaces provide places for children to play and people to walk their dogs: 
+
 ![Open Space](images/hayes4.jpg)
    {:.image}
 Desolate pathway in North Hollywood. This image was found on the [Public Art in LA website](http://www.publicartinla.com/LA_murals/Hollywood/cat_fairfax.html)
@@ -54,6 +56,7 @@ Judy Baca painted *The Great Wall of Los Angeles* to bring together different et
 Interpreting the images depicted on *The Great Wall of Los Angeles* is different for every individual who examines the paintings. The wide range of events, figures, and time periods of history allow citizens to consider where they come from and how their community developed. In hopes of promoting collaboration and learning among the diverse youth, Baca assigned a myriad of different subjects for each group to portray on the wall. During the process of painting the mural, “crews would be placed under the direction of an artist who would act as their leader and also as the focus of an ethnic culture” (Baca). Although Baca wanted the surrounding community to gain a better understanding of the local history, the main goal was to connect the youth of different backgrounds. By working together to conquer their painting tasks, barriers would fall making them forget about their differences. This mural does not offer the same accessibility as art pieces in surrounding Los Angeles communities.
 
 In the heart of Downtown Los Angeles, murals line the streets plastered on sides of bare building walls. Unlike art in North Hollywood, however, the murals are easily accessible to the public:
+
 ![Nelson Mandela](images/hayes5.jpg)
    {:.image}
 Nelson Mandela mural in Downtown Los Angeles. This image was found on the [Mural Conservancy of Los Angeles](barrio.la/street-art-l-a/)
@@ -74,6 +77,7 @@ Suburban neighborhoods are typically comprised of many different ethnicities but
 #### Works cited
 
 {:.bibliography} 
+
 Baca, Judith Francisca. “Abstract: The Great Wall of Los Angeles.” *Scholar Works*, 1980, scholarworks.csun.edu/bitstream/handle/10211.3/125594/BacaJudith1980.pdf?sequence=1.
 
 Barrio.la. “Street Art in LA - Photographed by: Barrio.la.” *Barrio.la*, 7 Feb. 2018, barrio.la/street-art-l-a/. 
