@@ -38,7 +38,7 @@ Not only can the changes in Downtown Los Angeles be seen through demographics, b
 two wanted to put their walls to use and commissioned multiple murals: The Bride and Groom (1972), El Nuevo Fuego (1985), Nino y Caballo (1984), and The Pope of Broadway (1985). However, in the late 90s, the local business was
 
 
-![You change this and put in your own Image title](images/Liang_Victor.jpg)
+![You change this and put in your own Image title](images/Liang_victor.jpg)
    {:.image}
 Fig. 3. Left: The Pope of Broadway. Top Right: The Bride and Groom and El Nuevo Fuego. Bottom Right: Nino y Caballo
    {:.caption} 
@@ -52,9 +52,9 @@ Los Angeles is currently experiencing a development boom that is redefining the 
 
 Advertisements sprawled across the city picture luxury products, suggesting downtown LA houses and wants to continue to host young and wealthy big spenders. In order to cater to young and higher income residents and tourists, DTLA has and plans to provide deluxe housing and entertainment. The Park Hyatt, one of the highest tier hotels in the Hyatt brand, is known for symbolizing luxury
 
-![You change this and put in your own Image title](images/Liang_ads1.jpg)
+![You change this and put in your own Image title](images/Liang_ad.jpg)
    {:.image}
-![You change this and put in your own Image title](images/Liang_ads2.jpg)
+![You change this and put in your own Image title](images/Liang_ads.jpg)
    {:.image}
 Fig. 4. Top Left: Advertisement for Park Hyatt Los Angeles. Top Right: Lebron with Beats headphones. Bottom Left: iPhone XS advertisement. Bottom Right: Advertisement for new condominium.  
    {:.caption} 
