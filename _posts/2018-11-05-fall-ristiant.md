@@ -28,13 +28,13 @@ The mural located on the back of Mercado La Paloma likens the market to a Hellen
 Figure 1: Greco-Roman columns framing the Mercado La Paloma mural
    {:.caption} 
    
-![Figure 2: Virgin Mary](images/Ristianto_Virgin_Mary.jpg)
+![Figure 2: Virgin Mary](images/Ristianto_Virgin_Mary.JPG)
    {:.image}
    
 Figure 2: Woman paints mural of Virgin Mary
    {:.caption} 
    
-![Figure 3: Rugrats](images/Ristianto_Rugrats.jpg)
+![Figure 3: Rugrats](images/Ristianto_Rugrats.JPG)
    {:.image}
    
 Figure 3: Contemporary Rugrats t-shirt
@@ -44,19 +44,19 @@ The choice of vendors and restaurants in the market is methodical, meant to conv
      
 The décor of Mercado La Paloma reinforces its portrayal as a multicultural neutral zone. Though the decoration may seem haphazard and heterogenous at first, certain themes connect all of the design choices, which were very deliberate. The dove is an example of such a deliberate image repeated throughout the interior and the exterior of the Mercado. This image echoes the name of the market itself, as paloma means dove in Spanish, and can be found carved into the sidewalk (Figure 4), painted on the tables, and featured on the market’s logo. Because the dove connotes peace, the symbol was most likely repeated throughout the venue to communicate the idea that the market is a safe place, away from the gentrification war that plagues University Park. The market, in addition to being covered with doves, is bursting to the seams with color. The tables boast decorative, painted tiles (Figure 5), the walls are painted in bright colors such as red, yellow, and orange, and strings of multicolored papel picado decorate the front of Oaxacalifornia. Upon analysis, it seems probable that this spectrum of colors was chosen to parallel the spectrum of cultures, food, vendors, and people represented in Mercado La Paloma. Finally, one of the most prominent art pieces in the venue was the display by Piece by Piece, a social enterprise that does mosaic work with people transitioning out of homelessness. The display consists of an amalgamation of small mosaic art pieces, quotes from participants and volunteers, and pictures of participants making mosaics (Figure 6). Not only does the mix of art pieces, photos, and quotes emphasize the socially conscious efforts of the Mercado, but it also reinforces the concept of diversity the venue tries so hard to emphasize—just like the medley of glass pieces that make up a mosaic.
 
-![Figure 4: Dove](images/Ristianto_Dove.jpg)
+![Figure 4: Dove](images/Ristianto_Dove.JPG)
    {:.image}
    
 Figure 4: Dove carved into side walk at the Mercado
    {:.caption} 
 
-![Figure 5: Painted Tiles](images/Ristianto_Tiles.jpg)
+![Figure 5: Painted Tiles](images/Ristianto_Tiles.JPG)
    {:.image}
    
 Figure 5: Painted tiles on the tables of the market
    {:.caption} 
    
-![Figure 6: Piece by Piece](images/Ristianto_Piece_By_Piece.jpg)
+![Figure 6: Piece by Piece](images/Ristianto_Piece_By_Piece.JPG)
    {:.image}
    
 Figure 6: Piece by Piece display
