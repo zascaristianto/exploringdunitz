@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Mercado la Paloma"
+title: "A Match Not Made in Heaven: The Relationship between University Park Gentrification and Mercado La Paloma"
 date: 2018-10-28
 categories: "sustainability" 
 author: "Zasca Ristianto"
 lat: 34.0173199
 lng: -118.2804932
 runningtitle: "this is just the title at the top, no need to do anything here"
-desc: "this is the map popup text"
+desc: "Mercado La Paloma"
 ---
 
 The relationship between my all-girls high school, Hockaday, and its all-boys counterpart, St. Mark’s, was the most problematic part of my high school experience. Especially recently, the toxicity of the Hockaday-St. Mark’s relationship has been underscored in our brother school’s constant disregard for rape culture and the gravity of sexual assault. This mindset conflicts with Hockaday’s mission, girl empowerment, indicating that the relationship is obsolete; however, Hockaday values its pristine image too highly to cut ties. This emphasis on perception, despite reality, plagues Los Angeles as well. Located in University Park, an area plagued by gentrification, Mercado La Paloma self-markets as a refuge from said gentrification; however, the marketplace exemplifies it. Gentrification in the neighborhood continues to rise: housing prices skyrocket, causing low-income residents to be displaced. Moreover, Mercado La Paloma promotes itself as a sanctuary from gentrification, illustrated by its mission statement, mural, choice of vendors and restaurants, and interior décor. Lastly, diverging from its image, the marketplace’s restaurants target the primarily white middle class, the crowd it ultimately attracts, and excludes cheaper vendors—typifying gentrification. 
