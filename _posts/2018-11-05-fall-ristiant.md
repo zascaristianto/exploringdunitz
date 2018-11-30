@@ -70,25 +70,25 @@ As is characteristic of gentrification, people of the middle class alienate the 
      
 Mercado La Paloma is a University Park marketplace that outwardly seems like a haven from gentrification, but in actuality embodies it. This was likely not the intention of the founders of Mercado La Paloma, however, and it is evident that avoiding gentrification while developing low income areas is difficult. How can one possibly maintain the integrity of a commercial venture while also accounting for the lives of the people that live in the community? How can policies be put in place to prevent gentrification? How can a business contain its impact on a neighborhood? Ideally, the goal for a business in University Park would be for the neighborhood to remain unchanged; however, this is improbable. The reality is that commercial development in at-risk areas and gentrification are inextricably intertwined, and the estrangement of the lower-class locals has no easy solution. Unlike my high school, who can most definitely end our relationship with our brother school, Mercado La Paloma cannot just cut ties with its problems.  
 
-#### References
+#### Works cited
 
 {:.bibliography} 
 
-Dubb, S. (2017, November 7). Gentrification Hits Historic Los Angeles Neighborhoods. Retrieved from https://nonprofitquarterly.org/2017/11/07/gentrification-hits-historic-los-angeles-neighborhoods/
+1. Dubb, S. (2017, November 7). Gentrification Hits Historic Los Angeles Neighborhoods. Retrieved from https://nonprofitquarterly.org/2017/11/07/gentrification-hits-historic-los-angeles-neighborhoods/
 
-Khouri, A. (2016, September 16). Home prices soar near USC as flippers and developers rush to ‘one of the best neighborhoods left. Retrieved from https://www.latimes.com/business/la-fi-jefferson-park-flips-20160831-snap-story.html
+2. Khouri, A. (2016, September 16). Home prices soar near USC as flippers and developers rush to ‘one of the best neighborhoods left. Retrieved from https://www.latimes.com/business/la-fi-jefferson-park-flips-20160831-snap-story.html
 
-Mapping LA: University Park. (2000). Retrieved from http://maps.latimes.com/neighborhoods/neighborhood/university-park/
+3. Mapping LA: University Park. (2000). Retrieved from http://maps.latimes.com/neighborhoods/neighborhood/university-park/
 
-Neighborhood Data for Social Change. (2018). Retrieved from https://data.myneighborhooddata.org/stories/s/xs7g-jqmb
+4. Neighborhood Data for Social Change. (2018). Retrieved from https://data.myneighborhooddata.org/stories/s/xs7g-jqmb
 
-Psaki, S. R., Seidman, J. C., Miller, M., Gottlieb, M., Bhutta, Z. A., Ahmed, T., Ahmed, A. S., Bessong, P., John, S. M., Kang, G., Kosek, M., Lima, A., Shrestha, P., Svensen, E., Checkley, W., MAL-ED Network Investigators (2014). Measuring socioeconomic status in multicountry studies: results from the eight-country MAL-ED study. Population health metrics, 12(1), 8. doi:10.1186/1478-7954-12-8
+5. Psaki, S. R., Seidman, J. C., Miller, M., Gottlieb, M., Bhutta, Z. A., Ahmed, T., Ahmed, A. S., Bessong, P., John, S. M., Kang, G., Kosek, M., Lima, A., Shrestha, P., Svensen, E., Checkley, W., MAL-ED Network Investigators (2014). Measuring socioeconomic status in multicountry studies: results from the eight-country MAL-ED study. Population health metrics, 12(1), 8. doi:10.1186/1478-7954-12-8
 
-Sequiera, K. (2017, October 5). Youth From South Los Angeles and Boyle Heights Speak on Gentrification. Retrieved from https://medium.com/intersections-south-la/youth-from-south-los-angeles-and-boyle-heights-speak-on-gentrification-2feff6c3617d
+6. Sequiera, K. (2017, October 5). Youth From South Los Angeles and Boyle Heights Speak on Gentrification. Retrieved from https://medium.com/intersections-south-la/youth-from-south-los-angeles-and-boyle-heights-speak-on-gentrification-2feff6c3617d
 
-Understand Food Insecurity. (2018). Retrieved from https://hungerandhealth.feedingamerica.org/understand-food-insecurity/
+7. Understand Food Insecurity. (2018). Retrieved from https://hungerandhealth.feedingamerica.org/understand-food-insecurity/
 
-Velez, J. (2015, May 6). Report: As USC student housing increases, affordable housing harder to find for residents. Retrieved from https://www.scpr.org/news/2015/05/06/51377/south-la-housing-affected-by-usc-growth-report-say/
+8. Velez, J. (2015, May 6). Report: As USC student housing increases, affordable housing harder to find for residents. Retrieved from https://www.scpr.org/news/2015/05/06/51377/south-la-housing-affected-by-usc-growth-report-say/
 
 
 
